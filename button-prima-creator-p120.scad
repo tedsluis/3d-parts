@@ -1,4 +1,4 @@
-// button outer diameter 14.8mm, inner diameter 5.98mm
+// button outer diameter 29.8mm, inner diameter 5.98mm
 $fn=160;
 // heigth
 H=11;

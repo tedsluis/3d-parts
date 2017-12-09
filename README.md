@@ -7,8 +7,8 @@ Alternative button for the default button.
 * Outer diameter 5.98 mm  
 * Inner diameter 29.8 mm  
 
-<a href="raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-top.png">
-  <img src="raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-top.png" alt="button-top" style="width:400px;">
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-top.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-top.png" alt="button-top" style="width:400px;">
 </a>
    
 [![button-top](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-top.png)](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-top.png)

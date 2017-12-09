@@ -8,18 +8,25 @@ Alternative button for the default button.
 * Inner diameter 29.8 mm  
    
 <a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-top.png">
-  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-top.png" alt="button-top" style="width:120px;">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-top.png" alt="button-top" style="width:120px;heigth:82px;">
 </a>
   
 <a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-bottom.png">
-  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-bottom.png" alt="button-bottum" style="width:120px;">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-bottom.png" alt="button-bottum" style="width:120px;heigth:75px;">
 </a>
   
 <a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result1.png">
-  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result1.png" alt="result1" style="width:120px;">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result1.png" alt="result1" style="width:120px;heigth:101px;">
 </a>
-      
-[![result2](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result2.png)](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result2.png)
+  
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result2.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result2.png" alt="result2" style="width:400px;heigth:322;">
+</a>
+  
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result3.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result2.png" alt="result2" style="width:400px;heigth:362;">
+</a>
+        
    
 * Openscad: [button-prima-creator-p120.scad](https://github.com/tedsluis/3d-parts/blob/master/button-prima-creator-p120.scad)    
 * Created via Openscad:[button-prima-creator-p120.stl](https://github.com/tedsluis/3d-parts/blob/master/button-prima-creator-p120.stl)   

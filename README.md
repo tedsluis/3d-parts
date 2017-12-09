@@ -24,7 +24,7 @@ Alternative button for the default button.
 </a>
   
 <a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result3.png">
-  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result2.png" alt="result2" style="width:400px;height:362;">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result3.png" alt="result3" style="width:400px;height:362;">
 </a>
         
    

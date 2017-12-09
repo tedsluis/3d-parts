@@ -5,13 +5,13 @@
 Alternative button for the default button.  
   
 * Outer diameter 5.98 mm  
-* inner diameter 29.8 mm  
+* Inner diameter 29.8 mm  
    
-[![button-top](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-top.png | width=400)](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-top.png)
+[![button-top](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-top.png =400x)](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-top.png)
 
-[![button-bottom](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-bottom.png | width=400)](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-bottom.png)
+[![button-bottom](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-bottom.png =400x)](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-bottom.png)
   
-[![result1](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result1.png | width=400)](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result1.png)
+[![result1](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result1.png =400x)](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result1.png)
    
 [![result2](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result2.png)](https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result2.png)
    

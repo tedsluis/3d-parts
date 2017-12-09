@@ -12,7 +12,7 @@ Alternative button for the default button.
 </a>
   
 <a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-bottom.png">
-  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-bottum.png" alt="button-bottum" style="width:120px;">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-prima-creator-p120-bottom.png" alt="button-bottum" style="width:120px;">
 </a>
   
 <a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/button-result1.png">

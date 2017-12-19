@@ -1,0 +1,26 @@
+$fn=120;
+difference(){
+	 box=[97.5,48,3];
+     cube(box,true);
+     translate([0,12,-1.5])cylinder(r=28,h=3);
+}
+difference(){
+     translate([0,12,-1.5])cylinder(r=36,h=3);
+     translate([0,12,-1.5])cylinder(r=28,h=3);
+}
+difference(){
+     translate([54.5,9,0])cube([12,9,3],true);
+     translate([53,7,0])cube([8.5,5,3],true);
+}
+difference(){
+     translate([54.5,-19,0])cube([12,9,3],true);
+     translate([53,-21,0])cube([8.5,5,3],true);
+}
+difference(){
+     translate([-54.5,9,0])cube([12,9,3],true);
+     translate([-53,7,0])cube([8.5,5,3],true);
+}
+difference(){
+     translate([-54.5,-19,0])cube([12,9,3],true);
+     translate([-53,-21,0])cube([8.5,5,3],true);
+}

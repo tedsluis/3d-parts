@@ -68,7 +68,7 @@
 #### Filament holder clip
   
 <a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-clip.png">
-  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-cli.png" alt="filament-holder-clip" style="width:120px;">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-clip.png" alt="filament-holder-clip" style="width:120px;">
 </a>  
     
 * Openscad: [filament-holder-clip.scad](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-clip.scad)

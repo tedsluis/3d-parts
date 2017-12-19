@@ -1,7 +1,76 @@
 # 3D parts
   
-
+  
 ---  
+  
+## Filament holder for my Prima Creator P120 printer   
+  
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder1.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder1.png" alt="filament-holder1" style="width:120px;">
+</a>
+      
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder2.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder2.png" alt="filament-holder2" style="width:120px;">
+</a>
+   
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder3.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder3.png" alt="filament-holder3" style="width:120px;">
+</a>
+   
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder4.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder4.png" alt="filament-holder4" style="width:120px;">
+</a>
+   
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder5.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder5.png" alt="filament-holder5" style="width:120px;">
+</a>
+   
+#### Filament holder pipe
+      
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-pipe.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-pipe.png" alt="filament-holder-pipe" style="width:120px;">
+</a>
+* Openscad: [filament-holder-pipe.scad](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-pipe.scad)
+* Created via Openscad:[filament-holder-pipe.stl](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-pipe.stl)
+* Printed via cura: [filament-holder-pipe.gcode](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-pipe.gcode)
+    
+#### Filament holder sidebar1
+  
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-sidebar1.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-sidebar1.png" alt="filament-holder-sidebar1" style="width:120px;">
+</a>
+* Openscad: [filament-holder-sidebar1.scad](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-sidebar1.scad)
+* Created via Openscad:[filament-holder-sidebar1.stl](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-sidebar1.stl)
+* Printed via cura: [filament-holder-sidebar1.gcode](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-sidebar1.gcode)
+   
+#### Filament holder sidebar2
+  
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-sidebar2.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-sidebar2.png" alt="filament-holder-sidebar2" style="width:120px;">
+</a>
+* Openscad: [filament-holder-sidebar2.scad](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-sidebar2.scad)
+* Created via Openscad:[filament-holder-sidebar2.stl](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-sidebar2.stl)
+* Printed via cura: [filament-holder-sidebar2.gcode](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-sidebar2.gcode)
+  
+#### Filament holder backplate
+  
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-backplate.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-backplate.png" alt="filament-holder-backplate" style="width:120px;">
+</a>
+* Openscad: [filament-holder-backplate.scad](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-backplate.scad)
+* Created via Openscad:[filament-holder-backplate.stl](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-backplate.stl)
+* Printed via cura: [filament-holder-backplate.gcode](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-backplate.gcode)
+  
+#### Filament holder clip
+  
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-clip.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-cli[.png" alt="filament-holder-clip" style="width:120px;">
+</a>
+* Openscad: [filament-holder-clip.scad](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-clip.scad)
+* Created via Openscad:[filament-holder-clip.stl](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-clip.stl)
+* Printed via cura: [filament-holder-clip.gcode](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-clip.gcode)
+   
+---
    
 ## Button for my Prima Creator P120 v3 3D printer
    

@@ -4,12 +4,13 @@ n=N/3;
 
 union(){
     for (i=[1:N]){
-        I=i/5;
+        I=i/3;
         D=i/137;
         difference(){
             rotate(i*360/n) translate([0,3,I]) cylinder(r=(25-D), h=0.2);
-            rotate(i*360/n) translate([0,3,I]) cylinder(r=(21-D), h=0.2);
+            if (i>20) {
+                rotate(i*360/n) translate([0,3,I]) cylinder(r=(21-D), h=0.2);
             }
+        }
 	}
 }
-cylinder(r=25, h=4);

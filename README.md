@@ -1,5 +1,7 @@
 # 3D parts printing with the Select Mini, ProFab Mini, Malyan M200, Prima Creator P120 or Mono price.
   
+## My Prima Creator P120  
+  
 <a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/primacreator-p120-1.gif">
   <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/primacreator-p120-1.gif" alt="primacreator-p120-1.gif" style="width:120px;">
 </a>
@@ -23,6 +25,8 @@
 * [Simplify3D: Rafts, Skirts and Brims!](https://www.simplify3d.com/support/articles/rafts-skirts-and-brims)  
 * [Simplify3D: Print Quality Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting)  
 * [3D Printing Troubleshooting: 34 Common 3D Printing Problems](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues)   
+* [Openscad, The Programmers Solid 3D CAD Modeller](http://www.openscad.org)
+* [Cura, Ultimaker 3d print software](https://ultimaker.com/en/products/ultimaker-cura-software)  
   
 ---  
   

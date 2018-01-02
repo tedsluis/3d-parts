@@ -1,19 +1,20 @@
 # 3D parts
   
-## Documentation and intresting links Select Mini / ProFab Mini / Malyan M200 / Prima Creator P120 / Mono price
+## Documentation and interesting links Select Mini / ProFab Mini / Malyan M200 / Prima Creator P120 / Mono price
   
-[Dave Wirth: 3D Printer Setup - Monoprice Select Mini - First Print](https://www.youtube.com/watch?v=hFeCo2gNciI)
-[Dave Wirth: Things I Learned - 3D Printing](https://www.youtube.com/watch?v=j6w1Vo5Q2hs)
-[support center Mono Price](https://support.monoprice.com)
-[MP Select Mini, ProFab Mini, Malyan M200, Prima Creator P120 Wiki](https://www.mpselectmini.com)
-[How to Malyan M200](http://wiki.malyansys.com/doku.php#how-to_for_m200)
-[Monoprice Select Mini Smoothieboard Conversion](http://www.instructables.com/id/Monoprice-Select-Mini-Smoothieboard-Conversion)
-[MP Select Mini – Extended Bed](https://codingwithspike.wordpress.com/2017/08/18/mp-select-mini-extended-bed-part-1-y-axis)
-[Under $50 Monoprice Select Mini to "Mega"](http://www.instructables.com/id/Under-50-Monoprice-Select-Mini-to-Mega)
-[Monoprice Select Mini 3D Printer KB](https://docs.google.com/document/d/1HJaLIcUD4oiIUYu6In7Bxf7WxAOiT3n48RvOe5pvSHk/edit#heading=h.60z236vc33i)
-[Rafts, Skirts and Brims!](https://www.simplify3d.com/support/articles/rafts-skirts-and-brims)
-[Print Quality Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting)
-[3D Printing Troubleshooting: 34 Common 3D Printing Problems](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues)   
+* [Dave Wirth: 3D Printer Setup - Monoprice Select Mini - First Print](https://www.youtube.com/watch?v=hFeCo2gNciI)  
+* [Dave Wirth: Things I Learned - 3D Printing](https://www.youtube.com/watch?v=j6w1Vo5Q2hs)  
+* [Leew: P120 Creator review: 3D printing for all](http://www.byleew.nl/review/p120-creator-3d-printing-for-all)
+* [support center Mono Price](https://support.monoprice.com)  
+* [MP Select Mini, ProFab Mini, Malyan M200, Prima Creator P120 Wiki](https://www.mpselectmini.com)  
+* [How to Malyan M200](http://wiki.malyansys.com/doku.php#how-to_for_m200)  
+* [Monoprice Select Mini Smoothieboard Conversion](http://www.instructables.com/id/Monoprice-Select-Mini-Smoothieboard-Conversion)  
+* [MP Select Mini – Extended Bed](https://codingwithspike.wordpress.com/2017/08/18/mp-select-mini-extended-bed-part-1-y-axis)  
+* [Under $50 Monoprice Select Mini to "Mega"](http://www.instructables.com/id/Under-50-Monoprice-Select-Mini-to-Mega)  
+* [Monoprice Select Mini 3D Printer KB](https://docs.google.com/document/d/1HJaLIcUD4oiIUYu6In7Bxf7WxAOiT3n48RvOe5pvSHk/edit#heading=h.60z236vc33i)  
+* [Simplify3D: Rafts, Skirts and Brims!](https://www.simplify3d.com/support/articles/rafts-skirts-and-brims)  
+* [Simplify3D: Print Quality Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting)  
+* [3D Printing Troubleshooting: 34 Common 3D Printing Problems](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues)   
   
 ---  
   

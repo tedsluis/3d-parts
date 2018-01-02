@@ -113,7 +113,11 @@ Update: this cap can be added to both sides of the pipe.
 <a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-cap.png">
   <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-cap.png" alt="filament-holder-cap" style="width:120px;">
 </a>
-     
+   
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-cap-result.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/filament-holder-cap-result.png" alt="filament-holder-cap-result" style="width:120px;">
+</a>
+    
 * Openscad: [filament-holder-cap.scad](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-cap.scad)
 * Created via Openscad:[filament-holder-cap.stl](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-cap.stl)
 * Printed via cura: [filament-holder-cap.gcode](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-cap.gcode)
@@ -151,6 +155,26 @@ Alternative button for the default button.
 * Openscad: [button-prima-creator-p120.scad](https://github.com/tedsluis/3d-parts/blob/master/button-prima-creator-p120.scad)    
 * Created via Openscad:[button-prima-creator-p120.stl](https://github.com/tedsluis/3d-parts/blob/master/button-prima-creator-p120.stl)   
 * Printed via cura: [button-prima-creator-p120.gcode](https://github.com/tedsluis/3d-parts/blob/master/button-prima-creator-p120.gcode)   
+   
+---
+   
+## Camera holder my Prima Creator P120 v3 3D printer and Lamobo D1 camera
+     
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/camaera-holder-result.jpg">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/camaera-holder-result.jpg" alt="camaera-holder-result" style="width:120px;">
+</a>
+  
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/camaera-holder-result.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/camaera-holder-result.png" alt="camaera-holder-result" style="width:120px;">
+</a>
+  
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/camaera-holder.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/camaera-holder.png" alt="camaera-holder" style="width:120px;">
+</a>
+   
+* Openscad: [camera-holder.scad](https://github.com/tedsluis/3d-parts/blob/master/camaera-holder.scad)    
+* Created via Openscad:[camera-holder.stl](https://github.com/tedsluis/3d-parts/blob/master/camaera-holder.stl)   
+* Printed via cura: [camera-holder.gcode](https://github.com/tedsluis/3d-parts/blob/master/camaera-holder.gcode)   
    
 ---  
   

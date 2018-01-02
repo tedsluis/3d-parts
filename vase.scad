@@ -4,7 +4,7 @@ n=N/3;
 
 union(){
     for (i=[1:N]){
-        D=i/137;
+        D=i/110;
         I=i/5;
         difference(){
             rotate(i*360/n) translate([0,3,I]) cylinder(r=(35-D), h=0.2);

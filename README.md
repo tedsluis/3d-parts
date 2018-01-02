@@ -1,5 +1,13 @@
 # 3D parts printing with the Select Mini, ProFab Mini, Malyan M200, Prima Creator P120 or Mono price.
   
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/primacreator-p120-1.gif">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/primacreator-p120-1.gif" alt="primacreator-p120-1.gif" style="width:120px;">
+</a>
+
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/primacreator-p120-2.gif">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/primacreator-p120-2.gif" alt="primacreator-p120-2.gif" style="width:120px;">
+</a>
+  
 ## Documentation and interesting links regarding Select Mini, ProFab Mini, Malyan M200, Prima Creator P120 and Mono price.
   
 * [Dave Wirth: 3D Printer Setup - Monoprice Select Mini - First Print](https://www.youtube.com/watch?v=hFeCo2gNciI)  

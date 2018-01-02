@@ -1,6 +1,6 @@
-# 3D parts
+# 3D parts printing with the Select Mini, ProFab Mini, Malyan M200, Prima Creator P120 or Mono price.
   
-## Documentation and interesting links Select Mini / ProFab Mini / Malyan M200 / Prima Creator P120 / Mono price
+## Documentation and interesting links regarding Select Mini, ProFab Mini, Malyan M200, Prima Creator P120 and Mono price.
   
 * [Dave Wirth: 3D Printer Setup - Monoprice Select Mini - First Print](https://www.youtube.com/watch?v=hFeCo2gNciI)  
 * [Dave Wirth: Things I Learned - 3D Printing](https://www.youtube.com/watch?v=j6w1Vo5Q2hs)  
@@ -94,7 +94,7 @@
 * Created via Openscad:[filament-holder-clip.stl](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-clip.stl)
 * Printed via cura: [filament-holder-clip.gcode](https://github.com/tedsluis/3d-parts/blob/master/filament-holder-clip.gcode)  
   
-#### Cap 
+#### Filament pipe cap 
   
 Update: this cap can be added to both sides of the pipe.  
   

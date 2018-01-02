@@ -208,6 +208,10 @@ Alternative button for the default button.
 <a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/bowl-bottom.png">
   <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/bowl-bottom.png" alt="bowl-bottom" style="width:120px;height:82px;">
 </a>
+  
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/bowl.jpg">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/bowl.jpg" alt="bowl" style="width:120px;">
+</a>
 
 * Openscad: [bowl.scad](https://github.com/tedsluis/3d-parts/blob/master/bowl.scad)
 * Created via Openscad:[bowl.stl](https://github.com/tedsluis/3d-parts/blob/master/bowl.stl)

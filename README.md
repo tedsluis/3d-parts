@@ -215,6 +215,62 @@ Alternative button for the default button.
 
 * Openscad: [bowl.scad](https://github.com/tedsluis/3d-parts/blob/master/bowl.scad)
 * Created via Openscad:[bowl.stl](https://github.com/tedsluis/3d-parts/blob/master/bowl.stl)
+   
+---
+  
+## Pedal bin pedal  
+     
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/pedalbinpedal.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/pedalbinpedal.png" alt="pedal bin pedal" style="width:120px;">
+</a>
+
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/pedalbinpedal-result.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/pedalbinpedal-result.png" alt="pedalbinpedal-result" style="width:120px;">
+</a>
+     
+* Openscad: [pedalbinpedal.scad](https://github.com/tedsluis/3d-parts/blob/master/pedalbinpedal.scad)
+* Created via Openscad:[pedalbinpedal.stl](https://github.com/tedsluis/3d-parts/blob/master/pedalbinpedal.stl)
+* Created via Cura:[pedalbinpedal.gcode](https://github.com/tedsluis/3d-parts/blob/master/pedalbinpedal.gcode)
+   
+---
+  
+## Vase  
+     
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/vase.jpeg">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/vase.jpeg" alt="vase" style="width:120px;">
+</a>
+   
+* Openscad: [vase.scad](https://github.com/tedsluis/3d-parts/blob/master/vase.scad)
+* Created via Openscad:[vase.stl](https://github.com/tedsluis/3d-parts/blob/master/vase.stl)
+* Created via Cura:[vase.gcode](https://github.com/tedsluis/3d-parts/blob/master/vase.gcode)
+   
+---
+  
+## christmas tree  
+     
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/christmas-tree1.jpeg">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/christmas-tree1.jpeg" alt="christmas-tree" style="width:120px;">
+</a>
+
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/christmas-tree2.jpeg">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/christmas-tree2.jpeg" alt="christmas-tree" style="width:120px;">
+</a>
+     
+* Openscad: [christmas-tree.scad](https://github.com/tedsluis/3d-parts/blob/master/christmas-tree.scad)
+* Created via Openscad:[christmas-tree.stl](https://github.com/tedsluis/3d-parts/blob/master/christmas-tree.stl)
+* Created via Cura: [christmas-tree.gcode](https://github.com/tedsluis/3d-parts/blob/master/christmas-tree.gcode)
+   
+---
+  
+## Cup  
+     
+<a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/cup.png">
+  <img src="https://raw.githubusercontent.com/tedsluis/3d-parts/master/cup.png" alt="cup" style="width:120px;">
+</a>
+   
+* Openscad: [cup.scad](https://github.com/tedsluis/3d-parts/blob/master/cup.scad)
+* Created via Openscad:[cup.stl](https://github.com/tedsluis/3d-parts/blob/master/cup.stl)
+* Created via Cura:[cup.gcode](https://github.com/tedsluis/3d-parts/blob/master/cup.gcode)
   
 ---
    

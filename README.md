@@ -1,5 +1,26 @@
 # 3D parts printing with the Select Mini, ProFab Mini, Malyan M200, Prima Creator P120 or Mono price.
-  
+   
+   * [3D parts printing with the Select Mini, ProFab Mini, Malyan M200, Prima Creator P120 or Mono price.](#3d-parts-printing-with-the-select-mini-profab-mini-malyan-m200-prima-creator-p120-or-mono-price)
+      * [My Prima Creator P120](#my-prima-creator-p120)
+      * [Documentation and interesting links regarding Select Mini, ProFab Mini, Malyan M200, Prima Creator P120 and Mono price.](#documentation-and-interesting-links-regarding-select-mini-profab-mini-malyan-m200-prima-creator-p120-and-mono-price)
+      * [Filament holder for my Prima Creator P120 printer](#filament-holder-for-my-prima-creator-p120-printer)
+            * [Filament holder pipe](#filament-holder-pipe)
+            * [Filament holder sidebar1](#filament-holder-sidebar1)
+            * [Filament holder sidebar2](#filament-holder-sidebar2)
+            * [Filament holder backplate](#filament-holder-backplate)
+            * [Filament holder clip](#filament-holder-clip)
+            * [Filament pipe cap](#filament-pipe-cap)
+      * [Button for my Prima Creator P120 v3 3D printer](#button-for-my-prima-creator-p120-v3-3d-printer)
+      * [Camera holder my Prima Creator P120 v3 3D printer and Lamobo D1 camera](#camera-holder-my-prima-creator-p120-v3-3d-printer-and-lamobo-d1-camera)
+      * [Ball](#ball)
+      * [Bowl](#bowl)
+      * [Pedal bin pedal](#pedal-bin-pedal)
+      * [Vase](#vase)
+      * [christmas tree](#christmas-tree)
+      * [Cup](#cup)
+      * [Thimble](#thimble)
+      * [Fillenium Malcon original satellite dish with landing gear](#fillenium-malcon-original-satellite-dish-with-landing-gear)
+    
 ## My Prima Creator P120  
   
 <a href="https://raw.githubusercontent.com/tedsluis/3d-parts/master/primacreator-p120-1.gif">
@@ -12,19 +33,29 @@
   
 ## Documentation and interesting links regarding Select Mini, ProFab Mini, Malyan M200, Prima Creator P120 and Mono price.
   
+#### Youtube  
 * [Dave Wirth: 3D Printer Setup - Monoprice Select Mini - First Print](https://www.youtube.com/watch?v=hFeCo2gNciI)  
 * [Dave Wirth: Things I Learned - 3D Printing](https://www.youtube.com/watch?v=j6w1Vo5Q2hs)  
+#### Blogs  
 * [Leew: P120 Creator review: 3D printing for all](http://www.byleew.nl/review/p120-creator-3d-printing-for-all)
+* [Dave Wirth: about 3d printing](http://davewirth.blogspot.nl/search?q=3d+printing)
+#### Wiki's and official pages
 * [support center Mono Price](https://support.monoprice.com)  
 * [MP Select Mini, ProFab Mini, Malyan M200, Prima Creator P120 Wiki](https://www.mpselectmini.com)  
 * [How to Malyan M200](http://wiki.malyansys.com/doku.php#how-to_for_m200)  
+* [Monoprice Select Mini 3D Printer KB](https://docs.google.com/document/d/1HJaLIcUD4oiIUYu6In7Bxf7WxAOiT3n48RvOe5pvSHk/edit#heading=h.60z236vc33i)  
+* [Prima Creator P120](http://primacreator.com/product/primacreator-p120)
+* [ProFab Mini 3D Printer](https://www.printfab3d.com/product/profab-mini-3d-printer)
+* [Malyan m200](http://malyansys.com/en/product/m200)
+#### Hardware extentions
 * [Monoprice Select Mini Smoothieboard Conversion](http://www.instructables.com/id/Monoprice-Select-Mini-Smoothieboard-Conversion)  
 * [MP Select Mini – Extended Bed](https://codingwithspike.wordpress.com/2017/08/18/mp-select-mini-extended-bed-part-1-y-axis)  
 * [Under $50 Monoprice Select Mini to "Mega"](http://www.instructables.com/id/Under-50-Monoprice-Select-Mini-to-Mega)  
-* [Monoprice Select Mini 3D Printer KB](https://docs.google.com/document/d/1HJaLIcUD4oiIUYu6In7Bxf7WxAOiT3n48RvOe5pvSHk/edit#heading=h.60z236vc33i)  
+#### 3d printing  
 * [Simplify3D: Rafts, Skirts and Brims!](https://www.simplify3d.com/support/articles/rafts-skirts-and-brims)  
 * [Simplify3D: Print Quality Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting)  
 * [3D Printing Troubleshooting: 34 Common 3D Printing Problems](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues)   
+#### 3d cad and printing software  
 * [Openscad, The Programmers Solid 3D CAD Modeller](http://www.openscad.org)
 * [Cura, Ultimaker 3d print software](https://ultimaker.com/en/products/ultimaker-cura-software)  
   
